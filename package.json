@@ -1,0 +1,14 @@
+{
+  "name": "camin-test-pkg",
+  "version": "1.0.0",
+  "description": "Test NPM package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Camin McCluskey <mccluskey.camin@gmail.com> (https://camin-mccluskey.github.io)",
+  "license": "ISC"
+}
