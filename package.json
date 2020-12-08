@@ -9,6 +9,10 @@
   "keywords": [
     "test"
   ],
+	"repository": {
+  	"type" : "git",
+  	"url" : "https://github.com/camin-mccluskey/camin-test-pkg.git"
+	},
   "author": "Camin McCluskey <mccluskey.camin@gmail.com> (https://camin-mccluskey.github.io)",
   "license": "ISC"
 }
